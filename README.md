@@ -7,8 +7,8 @@ This study employed a mixed-methods approach combining real-world NHS Maternity 
 
 When running the Shinny App
 
-######## Install dependencies
+###### Install dependencies
 source("install_packages.R")
 
-####### Launch the app
+###### Launch the app
 shiny::runApp()
